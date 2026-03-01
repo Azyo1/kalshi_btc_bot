@@ -1,5 +1,7 @@
 # Kalshi BTC Bot
 
+**Work in progress** — actively being developed and refined.
+
 Automated trading bot for Kalshi BTC hourly price prediction markets. Uses a log-normal pricing model calibrated to live Binance volatility to find mispriced contracts, then executes trades when edge clears fee-adjusted EV filters.
 
 ---
